@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Homework;
+package Homework3;
 
 /**
  *
- * @author Paul
+ * @author Andra
  */
 public class Homework {
 
@@ -15,7 +15,7 @@ public class Homework {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hello world");
     }
     
 }

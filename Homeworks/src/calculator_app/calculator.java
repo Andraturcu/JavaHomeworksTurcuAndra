@@ -5,6 +5,8 @@
  */
 package calculator_app;
 
+import javax.swing.JLabel;
+
 /**
  *
  * @author Paul
@@ -440,7 +442,8 @@ public class calculator extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton17ActionPerformed
 
     private void jButton18ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton18ActionPerformed
-       
+     arithmetic_operation();
+     jLabel1.setText("");
     }//GEN-LAST:event_jButton18ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
